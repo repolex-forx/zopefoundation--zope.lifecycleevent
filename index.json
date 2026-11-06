@@ -1,0 +1,11 @@
+{
+  "org": "zopefoundation",
+  "repo": "zope.lifecycleevent",
+  "versions": [
+    {
+      "commit": "92cd18ce99b7ac961adfc681b7817f459d553b3d",
+      "tag": "",
+      "parsed_at": "2026-11-06T01:26:22.057963+00:00"
+    }
+  ]
+}
